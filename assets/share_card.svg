@@ -1,0 +1,44 @@
+<svg id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" width="121.98" height="121.98" viewBox="0 0 121.98 121.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #237447;
+        stroke-miterlimit: 10;
+        stroke-width: 1.98px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #237447;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M61,1h0a60,60,0,0,1,60,60v60a0,0,0,0,1,0,0H61A60,60,0,0,1,1,61v0A60,60,0,0,1,61,1Z"/>
+  <g>
+    <rect class="cls-2" x="62.6" y="69.78" width="43.29" height="35.08" rx="4"/>
+    <line class="cls-2" x1="62.83" y1="80.63" x2="106.02" y2="80.63"/>
+    <ellipse class="cls-2" cx="68.19" cy="75.23" rx="1.33" ry="1.45"/>
+    <ellipse class="cls-2" cx="72.87" cy="75.23" rx="1.33" ry="1.45"/>
+    <ellipse class="cls-2" cx="77.54" cy="75.23" rx="1.33" ry="1.45"/>
+    <rect class="cls-2" x="15.97" y="33.2" width="43.29" height="35.08" rx="4"/>
+    <line class="cls-2" x1="16.2" y1="44.05" x2="59.38" y2="44.05"/>
+    <ellipse class="cls-2" cx="21.56" cy="38.65" rx="1.33" ry="1.45"/>
+    <ellipse class="cls-2" cx="26.23" cy="38.65" rx="1.33" ry="1.45"/>
+    <ellipse class="cls-2" cx="30.91" cy="38.65" rx="1.33" ry="1.45"/>
+    <g>
+      <path class="cls-2" d="M-291.38,291.65a43.16,43.16,0,0,1-25.45-22.24" transform="translate(339.33 -192.34)"/>
+      <polygon class="cls-3" points="44.67 89.27 42.89 90.15 47.28 98.9 38.23 102.63 38.99 104.47 50.01 99.92 44.67 89.27"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M-304,216.42a42.84,42.84,0,0,1,26-8.72,43,43,0,0,1,43,43" transform="translate(339.33 -192.34)"/>
+      <polygon class="cls-3" points="45.42 27.02 45.69 25.05 36 23.74 38.02 14.16 36.08 13.76 33.62 25.42 45.42 27.02"/>
+    </g>
+  </g>
+</svg>
